@@ -1,0 +1,18 @@
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\bin\Debug\AnalogSaat+.exe.config
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\bin\Debug\AnalogSaat+.exe
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\bin\Debug\AnalogSaat+.pdb
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat+.csprojResolveAssemblyReference.cache
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat_.Form1.resources
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat_.Properties.Resources.resources
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat+.csproj.GenerateResource.Cache
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat+.exe
+c:\users\sercan\documents\visual studio 2015\Projects\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat+.pdb
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\bin\Debug\AnalogSaat+.exe.config
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\bin\Debug\AnalogSaat+.exe
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\bin\Debug\AnalogSaat+.pdb
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat+.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat_.Form1.resources
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat_.Properties.Resources.resources
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat+.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat+.exe
+C:\Users\mrt_b\Downloads\AnalogSaat\AnalogSaat+\AnalogSaat+\obj\Debug\AnalogSaat+.pdb
